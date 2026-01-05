@@ -1,9 +1,10 @@
 # Chris Thielman
+[cmthielman@gmail.com](mailto:cmthielman@gmail.com)
 **Senior Support Engineer | Cloud, Containers & Automation**
 
 I am an experienced Support Engineer with 15+ years of delivering high-impact technical support across public cloud platforms, containerized environments, and hybrid infrastructure. I specialize in bridging the gap between technical and non-technical stakeholders to resolve complex issues efficiently.
 
-[View My Resume](link-to-your-pdf-later) | [Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
+[View My Resume](./Chris_Thieleman_resume.pdf) | [Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ---
 
