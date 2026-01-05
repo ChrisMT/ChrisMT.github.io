@@ -3,7 +3,7 @@
 
 I am an experienced Support Engineer with 15+ years of delivering high-impact technical support across public cloud platforms, containerized environments, and hybrid infrastructure. I specialize in bridging the gap between technical and non-technical stakeholders to resolve complex issues efficiently.
 
-[View My Resume](/Chris_Thielman_Resume.pdf) | [cmthielman@gmail.com](mailto:cmthielman@gmail.com) | [Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
+[View My Resume](/Chris_Thielman_Resume.pdf) | [cmthielman@gmail.com](mailto:cmthielman@gmail.com) 
 
 ---
 
@@ -35,7 +35,7 @@ I am an experienced Support Engineer with 15+ years of delivering high-impact te
 **The Problem:** High-impact events involving container misconfigurations and service outages in EKS/GKE environments.
 **The Solution:** Led deep-dive troubleshooting of pod failures, ingress issues, and secrets management errors.
 **The Result:** Restored service uptime and contributed to internal runbooks to prevent recurrence.
-
+*[View Repository](https://github.com/ChrisMT/k8s-incident-runbook)*
 ---
 
 ## Professional Experience
