@@ -27,7 +27,7 @@ I am an experienced Support Engineer with 15+ years of delivering high-impact te
 **The Problem:** Diagnosing issues across hybrid Linux and Windows workloads was manual and time-consuming.
 **The Solution:** Developed automation scripts using Python, Bash, and PowerShell to streamline diagnostics.
 **The Result:** Significantly reduced triage time and standardized data collection for root cause analysis.
-*[Link to Repo or Gist]*
+*[View Repository](https://github.com/ChrisMT/ops-diagnostics-toolkit)*
 
 ### 2. Kubernetes Incident Response
 *Production Support & Root Cause Analysis*
